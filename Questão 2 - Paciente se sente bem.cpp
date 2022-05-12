@@ -6,7 +6,7 @@
 
 int main ()
 {
-// inserindo apenas uma variavel que contemplara todas as respostas fornecidas pelo usuário
+// inserindo apenas uma variavel que contemplara todas as respostas fornecidas pelo usuário.
  	char resp;
  	int temp;
 
